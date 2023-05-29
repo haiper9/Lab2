@@ -10,7 +10,7 @@ from aiogram.types import User, InputFile, Message, message, InlineKeyboardMarku
 from aiogram.utils import executor
 import parser
 
-API_TOKEN = '5701580380:AAGyHK5jviOYYt_TUhBs1Eg2QnPsBuk-iVg'
+API_TOKEN = ''
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API_TOKEN)
